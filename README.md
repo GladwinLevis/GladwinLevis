@@ -1,19 +1,27 @@
-I’m Gladwin Levis. I’m a college student who’s still learning how things really work in programming. Right now my focus is not on building flashy projects, but on understanding fundamentals clearly — logic, structure, and why a solution works instead of just making it pass.
+I’m Gladwin Levis. I’m a college student learning programming in a very grounded way. Right now, my priority is not speed or trends, but understanding fundamentals properly and building habits that actually last.
 
 ---
 
-Most of my time goes into practicing problem solving and revisiting core concepts. I work on small programs, college-level projects, and basic implementations that help me think better as a programmer. I’m intentionally keeping things simple, because I’m still building my foundation and I don’t want gaps later.
+These days I spend most of my time practicing problem solving and revisiting core concepts. I work on small programs, college projects, and basic implementations that improve my logic. I’m still improving, still fixing mistakes, and deliberately keeping things simple while I strengthen my foundation.
 
 ---
 
-Skills (learning phase):  
-Python, C, C++, Java, JavaScript, HTML, CSS, basic SQL, data structures fundamentals, object-oriented programming basics, simple backend concepts
+Skills (still learning):  
+Python, C, C++, Java, JavaScript, HTML, CSS, basic SQL, data structures fundamentals, object-oriented programming basics, basic backend concepts
 
 ---
 
+GitHub activity  
 ![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=GladwinLevis&hide_border=true&bg_color=ffffff&color=000000&line=000000&point=000000)
 
-LeetCode: https://leetcode.com/u/711523bcs020/
+LeetCode progress  
+![LeetCode graph](https://leetcode.card.workers.dev/711523bcs020?theme=light&font=source_code_pro&extension=activity)
+
+CodeChef progress  
+![CodeChef graph](https://codechef-readme-stats.vercel.app/api/activity?username=gladwin_2005&theme=light)
+
+LeetCode: https://leetcode.com/u/711523bcs020/  
+CodeChef: https://www.codechef.com/users/gladwin_2005
 
 ---
 
